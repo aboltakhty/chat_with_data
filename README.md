@@ -1,5 +1,9 @@
 # PDF Chat (Next.js + Python + LangChain)
 
+<p align="center">
+  <img src="images/app.png" width="400"/>
+</p>
+
 This is a full-stack starter for chatting with PDFs using:
 - **Next.js** for the UI
 - **FastAPI** for the Python backend
